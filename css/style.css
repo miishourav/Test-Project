@@ -3,6 +3,7 @@
 *{
 	box-sizing: border-box;
 }
+/*global style*/
 body {
 	font-family: "PT Sans", sans-serif;
 }
